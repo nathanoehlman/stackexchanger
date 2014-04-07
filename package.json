@@ -12,8 +12,8 @@
   "author": "Nathan Oehlman",
   "license": "MIT",
   "dependencies": {
-    "oauth": "^0.9.11",
-    "lodash": "^2.4.1",
-    "request": "^2.34.0"
+    "oauth": "~0.9.11",
+    "lodash": "~2.4.1",
+    "request": "~2.34.0"
   }
 }
